@@ -1,0 +1,15 @@
+{"totalCount":11,
+    "data":[ 
+		{ "id": 1, "name1": "shop 1", "name2": "Item 1","qqnumber": "1234456", "email": "1234567890@qq.com","describe":"这是一个交换物品的小铺.", "date":  "10/1/2010"},
+		{ "id": 2, "name1": "shop 2", "name2": "Item 2", "qqnumber": "4532323", "email": "1234567890@qq.com","describe":"这是一个交换物品的小铺.", "date":  "10/2/2010"},
+		{ "id": 3, "name1": "shop 3", "name2": "Item 3", "qqnumber": "564564", "email": "1234567890@qq.com", "describe":"这是一个交换物品的小铺.","date":  "10/3/2010"},
+		{ "id": 4, "name1": "shop 4", "name2": "Item 4", "qqnumber": "453343", "email": "1234567890@qq.com", "describe":"这是一个交换物品的小铺.","date":  "10/4/2010"},
+		{ "id": 5, "name1": "shop 5", "name2": "Item 5", "qqnumber": "454342", "email": "1234567890@qq.com","describe":"这是一个交换物品的小铺.", "date":  "10/5/2010"},
+		{ "id": 6, "name1": "shop 6", "name2": "Item 6",  "qqnumber": "532555","email": "1234567890@qq.com", "describe":"这是一个交换物品的小铺.","date":  "10/6/2010"},
+		{ "id": 7, "name1": "shop 7", "name2": "Item 7", "qqnumber": "342444", "email": "1234567890@qq.com", "describe":"这是一个交换物品的小铺.","date":  "10/7/2010"},
+		{ "id": 8, "name1": "shop 8", "name2": "Item 8", "qqnumber": "434566", "email": "1234567890@qq.com", "describe":"这是一个交换物品的小铺.","date":  "10/8/2010"},
+		{ "id": 9, "name1": "shop 9", "name2": "Item 9", "qqnumber": "12334455", "email": "1234567890@qq.com", "describe":"这是一个交换物品的小铺.","date":  "10/9/2010"},
+		{ "id": 10, "name1": "shop 10", "name2": "Item 10", "qqnumber": "434444", "email": "1234567890@qq.com", "describe":"这是一个交换物品的小铺.","date":  "10/10/2010"},
+		{ "id": 11, "name1": "shop 11", "name2": "Item 11", "qqnumber": "434444", "email": "1234567890@qq.com", "describe":"这是一个交换物品的小铺.","date":  "10/10/2010"}
+    ]
+}
